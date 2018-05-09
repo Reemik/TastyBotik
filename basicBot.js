@@ -246,7 +246,7 @@
     var botCreatorIDs = [3851534, 4105209];
 
     var basicBot = {
-        version: '2.12.0',
+        version: '1.2.69',
         status: false,
         name: 'basicBot',
         loggedInID: null,
@@ -304,7 +304,7 @@
             afkpositionCheck: 15,
             afkRankCheck: 'ambassador',
             motdEnabled: false,
-            motdInterval: 5,
+            motdInterval: 1,
             motd: 'Temporary Message of the Day',
             filterChat: true,
             etaRestriction: false,
